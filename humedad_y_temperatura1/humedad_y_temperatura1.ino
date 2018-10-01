@@ -12,7 +12,7 @@ void setup()
 void loop()
 {
   float h, t;
-  int val = dht1.read(h, t);
+  int val = dht11.read(h, t);
   
   Serial.println("temperatura: %f", t);
   Serial.println("humedad: %f", h);
