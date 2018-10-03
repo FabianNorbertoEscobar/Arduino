@@ -1,4 +1,4 @@
-#Arduino
+# Arduino
 
 Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. 
 
