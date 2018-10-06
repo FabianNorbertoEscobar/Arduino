@@ -2,7 +2,7 @@ byte piezo = 3;
 
 void setup()
 {
-  pinMode(piezo, INPUT);
+  pinMode(piezo, OUTPUT);
 }
 
 void loop()
